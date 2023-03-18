@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DISEÑO E IMPRESION 3D</title>
+    <link rel="stylesheet" href="../assets/css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="shortcut icon" href="../assets/img/Logo/LogoPAGprueba32.png" type="image/x-icon">
+    <link rel="stylesheet" href="../assets/css/bootstrap-utilities.min.css"> 
+    <meta name="description" content="Servicio de desarrollo web, diseño y impresion 3d, pedi objetos 3d unicos personalizados, pedi diseños o tu retrato en stable diffusion">
+</head>
+    
+<body>
+    <div class="loading">
+        <i class="fa-solid fa-spinner"></i>
+    </div>
+      <header class="navbar">
+        <img src="../assets/img/Logo/LogoPAGprueba.png" alt="ImagenLogoTexto" class="logo">
+        <nav class="nav_principal">
+              <i class="fa-solid fa-bars"></i>
+              <ul>
+                  <li><a href="../index.html">Inicio</a></li>
+                  <li><a href="./productos.html">Productos 3D</a></li>
+                  <li><a href="./nuestrosDiseños.html">Diseños Graficos</a></li>
+                  <li><a href="./contacto.html">Contacto</a></li>
+                  <li><a href="./usuario.html">Usuario</a></li>
+              </ul>  
+        </nav>
+    </header> 
+
+    <main>
+       
+        <h4>Si tienes alguna pregunta o necesitas más información sobre nuestros servicios, solo tienes que rellenar el formulario en esta página  o contactanos en nuestras redes. <br> </h4>
+        <h5>¡NO TE OLVIDES QUE PERSONALIZAMOS PIEZAS 3D! <br>
+             Adjunta informacion y describi Tú Proyecto para que lo podamos materializar</h5>
+        <h4> Estamos siempre dispuestos a ayudarte y a resolver cualquier duda o consulta. ¡No dudes en contactarnos!</h4>
+        <section class="contenedor"> 
+            <form>
+                 <fieldset>
+                     <legend>Contactanos</legend>
+
+                      <label for="name">Nombre:</label>
+                      <input type="text" id="name" name="name"><br>
+                    
+                      <label for="email">Correo electrónico:</label>
+                      <input type="email" id="email" name="email"><br>
+                    
+                      <label for="phone">Teléfono:</label>
+                      <input type="tel" id="phone" name="phone"><br>
+                    
+                      <label for="comment">Dejar información que se crea relevante:</label><br>
+                      <textarea id="comment" name="comment" rows="5" cols="50"></textarea><br><br>
+
+                     <legend>Adjunte archivos necesarios</legend>
+
+                      <div class="input-group">
+                        <input type="file" class="form-control" id="inputGroupFile04" aria-describedby="inputGroupFileAddon04" aria-label="Upload">
+                
+                      </div>
+
+                      <button type="button" onclick="guardarDatos()">Guardar datos</button>
+                     
+
+                    
+                 </fieldset>
+             </form>
+        </section>
+        <div>
+            <h4>¡No dudes en ponerte en contacto con nosotros! ¡Visítanos y déjanos ayudarte a hacer realidad tus ideas!<br> Acercate a nuestro local: </h4>
+        </div>
+        <div class="wave" style="height: 150; overflow:hidden;"><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;"><path d="M-4.22,38.00 C242.94,151.48 329.85,-2.44 500.00,49.98 L500.00,150.00 L0.00,150.00 Z" style="stroke: none; fill: #fff;"></path></svg></div>
+
+        <section>
+
+            <div id="map"></div> <!-- map -->
+            
+        </section>
+
+    </main>
+    <div class="wave" style="height: 150; overflow:hidden;"><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;"><path d="M-4.22,38.00 C242.94,151.48 329.85,-2.44 500.00,49.98 L500.00,150.00 L0.00,150.00 Z" style="stroke: none; fill: black;"></path></svg></div>
+        
+
+    <footer>
+        <div class="footer">
+            <div class="footer__contenedor">
+                <h1> <img src="../assets/img/Logo/LogoPAGprueba.png" alt="logo" class="logo"> Desarrollo web y diseños e impresiones 3D</h1>
+                <p>© Copyright Arbizu Aldo Alberto</p>     
+                <p>#Seguinos en redes sociales:</p>  
+            </div>
+            <div class="red_social">
+                <ul>
+                    <li><p><a href="https//www.instagram.com" target="_blank"><i class="fa-brands fa-instagram"></i></i>instagram</a></p></li>
+                    <li><p><a href="https//www.facebook.com" target="_blank"><i class="fa-brands fa-facebook"></i>facebook</a></p></li>
+                </ul>
+            </div>
+         </div>
+
+    </footer>  
+    <script src="../assets/js/main.js"></script> 
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBDaeWicvigtP9xPv919E-RNoxfvC-Hqik&callback=iniciarMap"></script>
+</body>
+</html>

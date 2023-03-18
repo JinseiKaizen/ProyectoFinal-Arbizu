@@ -1,0 +1,77 @@
+[
+    {
+        "id": 1,
+        "nombre": "Figura de Batman",
+        "imagen": ["../assets/img/impresion3d/animeBatmanFigure.png"],
+        "precio": 50,
+        "stock": 4
+    },
+    {
+        "id": 2,
+        "nombre": "Figura de Darth Vader",
+        "imagen": ["../assets/img/impresion3d/darthVaderFigure.png"],
+        "precio": 200,
+        "stock": 3
+    },
+    {
+        "id": 3,
+        "nombre": "Arnes a rosca",
+        "imagen":["../assets/img/impresion3d/ganchoRosca.png"],
+        "precio": 90,
+        "stock": 2
+    },
+    {
+        "id": 4,
+        "nombre": "Figura de Gandalf",
+        "imagen":["../assets/img/impresion3d/gandalfFigure.png"],
+        "precio": 90,
+        "stock": 2
+    },
+    {
+        "id": 5,
+        "nombre": "Llave multiuso",
+        "imagen":["../assets/img/impresion3d/llaveMultiusos.png"],
+        "precio": 90,
+        "stock": 2
+    },
+    {
+        "id": 6,
+        "nombre": "LST para tallos",
+        "imagen":["../assets/img/impresion3d/lstTallos.png"],
+        "precio": 90,
+        "stock": 2
+    },
+    {
+        "id": 7,
+        "nombre": "Figura de Yoda",
+        "imagen":["../assets/img/impresion3d/masterYodaFigure.png"],
+        "precio": 90,
+        "stock": 2
+    },
+    {
+        "id": 8,
+        "nombre": "Saca teclas de teclado",
+        "imagen":["../assets/img/impresion3d/sacaTeclas.png"],
+        "precio": 90,
+        "stock": 2
+    },{
+        "id": 9,
+        "nombre": "Modelos de tenazas ",
+        "imagen":["../assets/img/impresion3d/tenazas2Modelos.png"],
+        "precio": 90,
+        "stock": 2
+    },{
+        "id": 10,
+        "nombre": "Contenedor grande",
+        "imagen":["../assets/img/impresion3d/tuboGrandeGrinder.png"],
+        "precio": 90,
+        "stock": 2
+    },
+    {
+        "id": 11,
+        "nombre": "Wall art",
+        "imagen":["../assets/img/impresion3d/wallArt.png"],
+        "precio": 90,
+        "stock": 2
+    }
+]

@@ -1,0 +1,9 @@
+.bodyIndex {
+    font-family: "Shippori Antique B1", sans-serif;
+    display: grid;
+    grid-template-columns:  repeat(4,1fr);
+    grid-template-areas: "navbar navbar navbar navbar"
+                         "main main main main"
+                         "aside aside aside aside"
+                         "footer footer footer footer" ;
+}

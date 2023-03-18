@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/issues</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/pulls</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/actions</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/projects?query=is%3Aopen</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/security</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/commit/26a28243c2c75df4542727b4b56b9f2eac162826</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/commit/f2fa1e50cfb73700c3565eded8b382f0ee4830bd</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/blob/main/index.html</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/releases</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/labels</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/milestones</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/compare</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/actions/workflows/pages/pages-build-deployment</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/actions/caches</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/actions/runs/3648656960</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/actions/runs/3648591236</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/actions/runs/3648557510</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/actions/runs/3648472442</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/actions/runs/3648424686</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/actions/runs/3647871540</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/security/policy</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/security/advisories</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/commit/c6ba1b86f34e8da91efaa8e90f62d7b955412e74</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/commit/d40a750c173cc51a16c08f502813538156e01087</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/blob/f2fa1e50cfb73700c3565eded8b382f0ee4830bd/index.html</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/find/main</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/labels?sort=name-asc</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/labels?sort=name-desc</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/labels?sort=count-desc</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/labels?sort=count-asc</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/labels/bug</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/labels/documentation</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/labels/duplicate</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/labels/enhancement</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/labels/good%20first%20issue</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/labels/help%20wanted</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/labels/invalid</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/labels/question</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/labels/wontfix</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/milestones?state=open</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/milestones?state=closed</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/milestones?direction=desc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/milestones?direction=asc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/milestones?direction=asc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/milestones?direction=desc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/milestones?direction=asc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/milestones?direction=desc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/milestones?direction=desc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/milestones?direction=asc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/actions/caches?query=sort%3Aaccessed-desc</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/actions/caches?query=sort%3Aaccessed-asc</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/actions/caches?query=sort%3Acreated-desc</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/actions/caches?query=sort%3Acreated-asc</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/actions/caches?query=sort%3Asize-desc</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/actions/caches?query=sort%3Asize-asc</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/actions/runs/3648656960/jobs/6162332445</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/actions/runs/3648656960/jobs/6162344296</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/actions/runs/3648656960/jobs/6162344473</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/actions/runs/3648656960/usage</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/actions/runs/3648591236/jobs/6162190770</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/actions/runs/3648591236/jobs/6162200770</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/actions/runs/3648591236/jobs/6162200982</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/actions/runs/3648591236/usage</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/actions/runs/3648557510/jobs/6162116881</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/actions/runs/3648557510/jobs/6162129843</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/actions/runs/3648557510/jobs/6162129610</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/actions/runs/3648557510/usage</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/commit/841869ea5b4c0009d97e10470a207c2ba647321a</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/actions/runs/3648472442/jobs/6161935514</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/actions/runs/3648472442/jobs/6161943761</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/actions/runs/3648472442/jobs/6161943966</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/actions/runs/3648472442/usage</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/commit/4553932786f0429bdd50475f1028ebc1b0af922f</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/actions/runs/3648424686/jobs/6161831612</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/actions/runs/3648424686/jobs/6161841239</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/actions/runs/3648424686/jobs/6161841024</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/actions/runs/3648424686/usage</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/actions/runs/3647871540/jobs/6160616206</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/actions/runs/3647871540/jobs/6160624750</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/actions/runs/3647871540/jobs/6160624565</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/actions/runs/3647871540/usage</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/find/f2fa1e50cfb73700c3565eded8b382f0ee4830bd</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/milestones?direction=desc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/milestones?direction=asc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/milestones?direction=asc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/milestones?direction=desc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/milestones?direction=asc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/milestones?direction=desc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/milestones?direction=desc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/JinseiKaizen/PreEntrega3-ARBIZU/milestones?direction=asc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2022-12-08T13:28:38+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+
+
+</urlset>

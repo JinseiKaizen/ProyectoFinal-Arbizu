@@ -1,0 +1,16 @@
+main {
+    grid-area: main;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url(../img/fondo/retro-80-tecnologic.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: unset;
+    background-position: center;
+    height: auto;
+    overflow: hidden;
+  }
